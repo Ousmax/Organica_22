@@ -201,7 +201,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 mix shop_product" product_id="1">
                     
                     <div class="product__item">
-                        <a href="/organica/product/1">
+                        <a href="/organica/product-page/1">
                             <div class="product__item__pic set-bg" data-setbg="img/products/n.jpg">
                             
                             </div>
@@ -217,7 +217,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 mix shop_product" product_id="10">
                     
                     <div class="product__item">
-                        <a href="/organica/product/10">
+                        <a href="/organica/product-page/10">
                             <div class="product__item__pic set-bg" data-setbg="img/products/p.jpg">
 
                             </div>
@@ -233,7 +233,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 mix shop_product" product_id="18">
                       
                     <div class="product__item sale">
-                        <a href="/organica/product/18">
+                        <a href="/organica/product-page/18">
                             <div class="product__item__pic set-bg" data-setbg="img/products/r.jpg">
 
                             </div>
