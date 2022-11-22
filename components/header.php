@@ -247,8 +247,8 @@
                 </div> <!-- dropdown-mega-menu.// -->
             </li>
 
-            <li class="nav-item"><a class="nav-link pointer-hover" href="/organica/story"> Our story </a></li>
-            <li class="nav-item"><a class="nav-link pointer-hover" href="/organica/faq"> FAQ </a></li>
+            <li class="nav-item"><a class="nav-link pointer-hover" href="/organica/our-story"> Our story </a></li>
+            <li class="nav-item"><a class="nav-link pointer-hover" href="/organica/faqs"> FAQ </a></li>
 
 
         </ul>

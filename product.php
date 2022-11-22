@@ -2,7 +2,7 @@
 
 use Pecee\SimpleRouter\SimpleRouter as Router;
 
-$url =  explode('organica/product',Router::getUrl());
+$url =  explode('organica/product-page',Router::getUrl());
 
 $parts = explode('/',$url[1]);
 

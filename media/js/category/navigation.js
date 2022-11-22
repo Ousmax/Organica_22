@@ -2,7 +2,7 @@ function showProducts(productsArray){
 	productsHTML = "";
 	for (var i = 0; i < productsArray.length; i++) {
 	productsHTML = productsHTML + `<div class="col-lg-4 col-md-6 col-sm-6 shop_product" product_id=${productsArray[i]['id']}>
-									<a href="/organica/product/${productsArray[i]['id']}">	
+									<a href="/organica/product-page/${productsArray[i]['id']}">	
 									<div class="product__item sale">
 									<div class="product__item__pic set-bg" style='background-image: url("/organica/`+productsArray[i]['img']+`");'>
 									</div>

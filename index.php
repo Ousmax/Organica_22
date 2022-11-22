@@ -14,15 +14,15 @@ Route::get('/organica/products/{criteria?}/{value?}/{critvalue?}', function() {
     include_once "category.php";
 })->setMatch('/\/organica\/([\w]+)\/([\w]+)\/([\w&]+)/');
 
-Route::get('/organica/product/{productId?}', function() {
+Route::get('/organica/product-page/{productId?}', function() {
     include_once "product.php";
 });
 
-Route::get('/organica/fak', function() {
+Route::get('/organica/faqs', function() {
     include_once "faq.php";
 });
 
-Route::get('/organica/story', function() {
+Route::get('/organica/our-story', function() {
     include_once "story.php";
 });
 
