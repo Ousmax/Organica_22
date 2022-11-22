@@ -18,7 +18,7 @@ Route::get('/organica/product/{productId?}', function() {
     include_once "product.php";
 });
 
-Route::get('/organica/faq', function() {
+Route::get('/organica/fak', function() {
     include_once "faq.php";
 });
 
