@@ -12,7 +12,7 @@
     <div id="chat-boat" class='withlong'>
         <div class="chat-container"></div>
     </div>
-    <img id="assistant" src="/organica22/img/assistant.png">
+    <img id="assistant" src="/organica/img/assistant.png">
     <script src="media/js/chatroom.js"></script>
     <script type="text/javascript">
         var chatroom = new window.Chatroom({
@@ -141,7 +141,7 @@
             <div class="row">
                 
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 pointer-hover">
-                    <a href="/organica22/products/category/0/Skin">
+                    <a href="/organica/products/category/0/Skin">
                         <div class="banner__item">
                             <div class="banner__item__pic">
                                 <img src="img/products/Argile1.jpeg" alt="">
@@ -155,7 +155,7 @@
                 
                 
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 pointer-hover">
-                    <a href="/organica22/products/category/1/Hair">
+                    <a href="/organica/products/category/1/Hair">
                         <div class="banner__item">
                             <div class="banner__item__pic">
                                 <img src="img/hair.webp" alt="">
@@ -169,7 +169,7 @@
                 
                 
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm- pointer-hover">
-                    <a href="/organica22/products/category/2/Body">
+                    <a href="/organica/products/category/2/Body">
                         <div class="banner__item">
                             <div class="banner__item__pic">
                                 <img src="img/products/iStock-183410603.jpg" alt="">
@@ -201,7 +201,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 mix shop_product" product_id="1">
                     
                     <div class="product__item">
-                        <a href="/organica22/product/1">
+                        <a href="/organica/product/1">
                             <div class="product__item__pic set-bg" data-setbg="img/products/n.jpg">
                             
                             </div>
@@ -217,7 +217,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 mix shop_product" product_id="10">
                     
                     <div class="product__item">
-                        <a href="/organica22/product/10">
+                        <a href="/organica/product/10">
                             <div class="product__item__pic set-bg" data-setbg="img/products/p.jpg">
 
                             </div>
@@ -233,7 +233,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-md-6 col-sm-6 mix shop_product" product_id="18">
                       
                     <div class="product__item sale">
-                        <a href="/organica22/product/18">
+                        <a href="/organica/product/18">
                             <div class="product__item__pic set-bg" data-setbg="img/products/r.jpg">
 
                             </div>

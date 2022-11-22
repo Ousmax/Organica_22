@@ -2,7 +2,7 @@
 
 use Pecee\SimpleRouter\SimpleRouter as Router;
 
-$url =  explode('organica22/products',Router::getUrl());
+$url =  explode('organica/products',Router::getUrl());
 
 $parts = explode('/',$url[1]);
 
@@ -31,8 +31,8 @@ $critvalue = str_replace("_"," ",$parts[3]);
         <div id="chat-boat" class='withlong'>
             <div class="chat-container"></div>
         </div>
-        <img id="assistant" src="/organica22/img/assistant.png">
-        <script src="/organica22/media/js/chatroom.js"></script>
+        <img id="assistant" src="/organica/img/assistant.png">
+        <script src="/organica/media/js/chatroom.js"></script>
         <script type="text/javascript">
             var chatroom = new window.Chatroom({
             host: "http://localhost:5005",
@@ -135,7 +135,7 @@ $critvalue = str_replace("_"," ",$parts[3]);
                     <div class="breadcrumb__text">
                         <h4>Shop</h4>
                         <div class="breadcrumb__links">
-                            <a href="/organica22">Shop</a>
+                            <a href="/organica">Shop</a>
                             <a class='criterion'>Concerns</a>
                             <span class='critvalue'>Shop</span>
                         </div>
@@ -194,7 +194,7 @@ $critvalue = str_replace("_"," ",$parts[3]);
                         <div class="o-layout__item u-1/1 u-1/2@tab u-1/4@desk">
                             <div class="footer-nav footer-nav--image">
                                    
-                                <img class="footer-nav__image-img js lazyautosizes lazyloaded" src="/organica22/img/footer-logo.png" data-widths="[180, 360, 540, 720]" data-sizes="auto" alt="" style="max-width: 250px">                            
+                                <img class="footer-nav__image-img js lazyautosizes lazyloaded" src="/organica/img/footer-logo.png" data-widths="[180, 360, 540, 720]" data-sizes="auto" alt="" style="max-width: 250px">                            
                                 
                             </div>
                         </div>                    

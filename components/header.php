@@ -72,8 +72,8 @@
 
 <nav>
     <div class='text-center' >
-    <a href="/organica22">
-    <img id="topLogo" src="/organica22/img/logo.png" alt="">
+    <a href="/organica">
+    <img id="topLogo" src="/organica/img/logo.png" alt="">
     </a>
     </div>
 </nav>
@@ -96,22 +96,22 @@
                                     <h3 >Our products</h3>
                                     
                                     <ul class="subnav">
-                                        <a href="/organica22/products/all/all/all">
+                                        <a href="/organica/products/all/all/all">
                                         <li class="subnav-item">
                                             shop all
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/category/1/Hair">
+                                        <a href="/organica/products/category/1/Hair">
                                         <li class="subnav-item">
                                             Hair
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/category/2/Body">
+                                        <a href="/organica/products/category/2/Body">
                                         <li class="subnav-item">
                                             Body
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/category/0/Skin">
+                                        <a href="/organica/products/category/0/Skin">
                                         <li class="subnav-item">
                                             Skin
                                         </li>
@@ -121,7 +121,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 d-sm-block">
-                            <img src="/organica22/img/products/thefutureofcleanbeauty-intext-2.jpeg" class="img-fluid mb-3" alt="test image">
+                            <img src="/organica/img/products/thefutureofcleanbeauty-intext-2.jpeg" class="img-fluid mb-3" alt="test image">
                         </div>
                     </div>
                 </div> <!-- dropdown-mega-menu.// -->
@@ -136,17 +136,17 @@
                                 <div class="col-12">
                                     <h3 >By skin concern </h3>
                                     <ul class="subnav">
-                                        <a href="/organica22/products/concern/0/Aging_&_Fine_lines">
+                                        <a href="/organica/products/concern/0/Aging_&_Fine_lines">
                                         <li class="subnav-item">
                                             Aging & Fine lines
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/concern/1/Uneven_tone_&_texture">
+                                        <a href="/organica/products/concern/1/Uneven_tone_&_texture">
                                         <li class="subnav-item">
                                             Uneven tone & texture
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/concern/2/Blemish_and_breakouts">
+                                        <a href="/organica/products/concern/2/Blemish_and_breakouts">
                                         <li class="subnav-item">
                                             Blemish and breakouts
                                         </li>
@@ -156,7 +156,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4 d-sm-block">
-                            <img src="/organica22/img/products/GettyImages-135233782-56f0d0555f9b5867a1c64327.jpeg" class="img-fluid mb-3" alt="test image">
+                            <img src="/organica/img/products/GettyImages-135233782-56f0d0555f9b5867a1c64327.jpeg" class="img-fluid mb-3" alt="test image">
                         </div>
                     </div>
                 </div> <!-- dropdown-mega-menu.// -->
@@ -171,27 +171,27 @@
                                 <div class="col-12">
                                     <h3 >By hair concern </h3>
                                     <ul class="subnav">
-                                        <a href="/organica22/products/concern/3/Hair_loss_&_Hair_thinning">
+                                        <a href="/organica/products/concern/3/Hair_loss_&_Hair_thinning">
                                         <li class="subnav-item">
                                             Hair loss & Hair thinning
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/concern/4/Dryness">
+                                        <a href="/organica/products/concern/4/Dryness">
                                         <li class="subnav-item">
                                             Dryness
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/concern/5/Oiliness">
+                                        <a href="/organica/products/concern/5/Oiliness">
                                         <li class="subnav-item">
                                             Oiliness
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/concern/6/Dehydration">
+                                        <a href="/organica/products/concern/6/Dehydration">
                                         <li class="subnav-item">
                                             Dehydration
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/concern/7/Dandruff_&_itchy_scalp">
+                                        <a href="/organica/products/concern/7/Dandruff_&_itchy_scalp">
                                         <li class="subnav-item">
                                             Dandruff & itchy scalp
                                         </li>
@@ -216,22 +216,22 @@
                                 <div class="col-12">
                                     <h3 >Categories</h3>
                                     <ul class="subnav">
-                                        <a href="/organica22/products/type/0/Cleansers_&_Exfoliants">
+                                        <a href="/organica/products/type/0/Cleansers_&_Exfoliants">
                                         <li class="subnav-item">
                                             Cleansers & Exfoliants
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/type/1/Serums_&_Oils">
+                                        <a href="/organica/products/type/1/Serums_&_Oils">
                                         <li class="subnav-item">
                                             Serums & Oils
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/type/2/Masks">
+                                        <a href="/organica/products/type/2/Masks">
                                         <li class="subnav-item">
                                             Masks
                                         </li>
                                         </a>
-                                        <a href="/organica22/products/type/3/Bath">
+                                        <a href="/organica/products/type/3/Bath">
                                         <li class="subnav-item">
                                             Bath
                                         </li>
@@ -253,8 +253,8 @@
 
         </ul>
         <ul class="navbar-nav ms-auto">
-            <li class="nav-item d-inline-block p-l-20"><img class='js-show-search' id="search" src="/organica22/img/icon/search.png" alt=""></li>
-            <li class="nav-item d-inline-block p-l-20"><img id="cart" src="/organica22/img/icon/cart.png" alt=""></li>
+            <li class="nav-item d-inline-block p-l-20"><img class='js-show-search' id="search" src="/organica/img/icon/search.png" alt=""></li>
+            <li class="nav-item d-inline-block p-l-20"><img id="cart" src="/organica/img/icon/cart.png" alt=""></li>
         </ul>
     </div> <!-- navbar-collapse.// -->
 </div> <!-- container-fluid.// -->

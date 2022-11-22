@@ -2,9 +2,9 @@ function showProducts(productsArray){
 	productsHTML = "";
 	for (var i = 0; i < productsArray.length; i++) {
 	productsHTML = productsHTML + `<div class="col-lg-4 col-md-6 col-sm-6 shop_product" product_id=${productsArray[i]['id']}>
-									<a href="/organica22/product/${productsArray[i]['id']}">	
+									<a href="/organica/product/${productsArray[i]['id']}">	
 									<div class="product__item sale">
-									<div class="product__item__pic set-bg" style='background-image: url("/organica22/`+productsArray[i]['img']+`");'>
+									<div class="product__item__pic set-bg" style='background-image: url("/organica/`+productsArray[i]['img']+`");'>
 									</div>
 									</a>
 									<div class="product__item__text">
@@ -116,6 +116,6 @@ function loadShop(criterion,value,critvalue,category='all'){
 	$(document).ready(()=>{
 		$("#main_nav").trigger('click');
 		loadProducts(criterion,value,critvalue);
-		$("#page_content").append('<script src="/organica22/media/js/tagsHandler.js"></script>');
+		$("#page_content").append('<script src="/organica/media/js/tagsHandler.js"></script>');
 	});
 }

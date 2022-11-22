@@ -20,7 +20,7 @@ function addToCart(id){
                                     <div class="o-layout__item u-1/3 u-1/4@tab">
                                         <a class="ajaxcart__product-image">
                                             <div class="o-ratio o-ratio--bg-grey">
-                                                <img src="/organica22/`+products[id]['img']+`" class="o-ratio__content" alt="`+products[id]['product']+`">
+                                                <img src="/organica/`+products[id]['img']+`" class="o-ratio__content" alt="`+products[id]['product']+`">
                                             </div>
                                         </a>
                                     </div>

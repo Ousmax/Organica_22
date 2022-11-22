@@ -6,27 +6,27 @@ use \Pecee\SimpleRouter\SimpleRouter as Route;
 use Pecee\Http\Response;
 use Pecee\Http\Request;
 
-Route::get('/organica22', function() {
+Route::get('/organica', function() {
     include_once "main.php";
 });
 
-Route::get('/organica22/products/{criteria?}/{value?}/{critvalue?}', function() {
+Route::get('/organica/products/{criteria?}/{value?}/{critvalue?}', function() {
     include_once "category.php";
-})->setMatch('/\/organica22\/([\w]+)\/([\w]+)\/([\w&]+)/');
+})->setMatch('/\/organica\/([\w]+)\/([\w]+)\/([\w&]+)/');
 
-Route::get('/organica22/product/{productId?}', function() {
+Route::get('/organica/product/{productId?}', function() {
     include_once "product.php";
 });
 
-Route::get('/organica22/faq', function() {
+Route::get('/organica/faq', function() {
     include_once "faq.php";
 });
 
-Route::get('/organica22/story', function() {
+Route::get('/organica/story', function() {
     include_once "story.php";
 });
 
-Route::get('/organica22/not-found', function() {
+Route::get('/organica/not-found', function() {
     include_once "404.php";
 });
 
@@ -40,7 +40,7 @@ Route::error(function(Request $request, \Exception $exception) {
 switch($exception->getCode()) {
     // Page not found
     case 404:
-        response()->redirect('/organica22/not-found');
+        response()->redirect('/organica/not-found');
     // Forbidden
     case 403:
         response()->redirect('/forbidden');
