@@ -69,7 +69,6 @@ rel="stylesheet">
 <script src="/organica/media/js/cart.js"></script>
 <script src="/organica/media/js/cartbuttons.js"></script>
 <script src="/organica/media/js/customJS.js"></script>
-<script src="/organica/media/js/botInteractions.js"></script>   
-
 <script src="/organica/media/js/data.js"></script>
 <script src="/organica/media/js/category/navigation.js"></script>
+<script src="/organica/media/js/botInteractions.js"></script>   

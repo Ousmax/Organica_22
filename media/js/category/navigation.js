@@ -23,6 +23,22 @@ $("#products_row").html(productsHTML);
 });*/
 }
 
+function loadProductPageByName(product_name){
+	
+	product_id=-1;
+
+	for (var i = products.length - 1; i >= 0; i--) {
+		if(products[i]['product'].includes(product_name)){
+			product_id = products[i]['id'];
+		}
+	}
+
+	if (product_id == -1){
+		return 0
+	}
+	window.location.href = `/organica/product-page/${product_id}`;
+}
+
 function loadProducts(criterion,value,critvalue,category='all'){
 
 	productsHTML = "";
